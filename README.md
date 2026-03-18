@@ -1,0 +1,1 @@
+Este plan está diseñado para formar un perfil de **Ingeniero de IoT Industrial / Edge AI Engineer**, enfocado en la interconexión de sistemas heredados (PLC) con tecnologías modernas (Cloud/IA).
